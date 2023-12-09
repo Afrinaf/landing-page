@@ -15,5 +15,5 @@ This project is a simple landing page for a company created using HTML, CSS, and
 
 ## Setup Instructions
 1. Clone the repository to your local machine.
-   ```bash```
+   ```bash
    git clone https://github.com/Afrinaf/landing-page.git
