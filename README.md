@@ -13,6 +13,11 @@ This project is a simple landing page for a company created using HTML, CSS, and
 - CSS
 - JavaScript
 
+## Screenshot
+
+![WhatsApp Image 2024-07-17 at 8 11 23 PM](https://github.com/user-attachments/assets/521510db-f530-4319-9ef3-7dbf1b218866)
+
+
 ## Setup Instructions
 1. Clone the repository to your local machine.
    ```bash
